@@ -9,7 +9,7 @@ This circuit can also be used for reversing track polarity control or where ever
 
 The program makes use of ACS712.h library created by Rob Tillaert.
 
-The switching relay os an Omron g6S-2 5VDC type.
+The switching relay is an Omron g6S-2 5VDC type.
 
 ![ACS712](https://github.com/Erik84750/Auto-Reverser-DCC/assets/20128852/e95ff3a0-db89-4341-a467-8d4ad5d98f4b)
 
