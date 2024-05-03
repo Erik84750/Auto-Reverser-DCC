@@ -3,7 +3,7 @@ ACS712-based sensor for short-circuit detection and track polarity reverser
 
 This circuit and the software included take care of DCC track polarity reversal upon short circuit detection.
 
-The reaction speed, from detection until polarity reverse command, is approx. 40 microseconds! Therefor it beats every short-circuit and overload detection including the DCC-EX Command Station.
+The reaction speed, from detection until polarity reverse command, is approx. 2 microseconds (measured with an AtMega328 at 16MHz)! Therefor it beats every short-circuit and overload detection including the DCC-EX Command Station.
 
 Its creation is linked to a conversation on Train Board where an issue was raised on the control of turntable track polarity control:
 https://www.trainboard.com/highball/index.php?threads/turntable-controller-finalised-project-proposed.154256/page-4
