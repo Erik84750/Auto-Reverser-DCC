@@ -5,7 +5,8 @@ This circuit and the software included take care of DCC track polarity reversal 
 
 The reaction speed, from detection until polarity reverse command, is approx. 40 microseconds! Therefor it beats every short-circuit and overload detection including the DCC-EX Command Station.
 
-Its creation is linked to a conversation on Train Board where an issue was raised on the control of turntable track polarity control.
+Its creation is linked to a conversation on Train Board where an issue was raised on the control of turntable track polarity control:
+https://www.trainboard.com/highball/index.php?threads/turntable-controller-finalised-project-proposed.154256/page-4
 
 This circuit can also be used for reversing track polarity control or where ever DCC track polarity requires reversal control.
 
